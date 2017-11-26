@@ -115,7 +115,7 @@ layers back to a flatter representation and attempt to identify the encoded
 features in the resultant image. This is how we add spatial information back
 into our network.
 
-![FCN](./fcn.png)
+![FCN](./model.png)
 
 ```python
 def fcn_model(inputs, num_classes):
